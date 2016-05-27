@@ -1,0 +1,65 @@
+{
+
+  "name": "ec2id",
+  "readme": "README.md",
+  "version": "0.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dudewheresmycode/node-ec2id.git"
+  },
+  "_args": [
+    [
+      "ec2id",
+      "/Users/addroid/Box Sync/Brian Sync/Labs/npm-modules"
+    ]
+  ],
+  "_from": "ec2id@latest",
+  "_id": "ec2id@0.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ec2id",
+  "_nodeVersion": "0.10.25",
+  "_npmUser": {
+    "email": "brian@addroid.com",
+    "name": "addroid"
+  },
+  "_npmVersion": "3.5.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ec2id",
+    "raw": "ec2id",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ec2id/-/ec2id-0.0.4.tgz",
+  "_shasum": "c502368c46da1ed399353d74303970c0106a67bc",
+  "_shrinkwrap": null,
+  "_spec": "ec2id",
+  "_where": "/Users/addroid/Box Sync/Brian Sync/Labs/npm-modules",
+  "author": {
+    "name": "brian@addroid.com"
+  },
+  "dependencies": {
+    "sync-request": "*"
+  },
+  "description": "A simple function that returns the server's Amazon EC2 ID.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c502368c46da1ed399353d74303970c0106a67bc",
+    "tarball": "http://registry.npmjs.org/ec2id/-/ec2id-0.0.4.tgz"
+  },
+  "maintainers": [
+    {
+      "email": "brian@addroid.com",
+      "name": "addroid"
+    }
+  ],
+  "optionalDependencies": {},
+  "scripts": {}
+}
